@@ -1,0 +1,7 @@
+C:\Users\Kim\Documents\GitHub\Uppgift-1\Tri\UnitTestTri\bin\Debug\UnitTestTri.dll
+C:\Users\Kim\Documents\GitHub\Uppgift-1\Tri\UnitTestTri\bin\Debug\UnitTestTri.pdb
+C:\Users\Kim\Documents\GitHub\Uppgift-1\Tri\UnitTestTri\bin\Debug\Tri.exe
+C:\Users\Kim\Documents\GitHub\Uppgift-1\Tri\UnitTestTri\bin\Debug\Tri.pdb
+C:\Users\Kim\Documents\GitHub\Uppgift-1\Tri\UnitTestTri\obj\Debug\UnitTestTri.csprojResolveAssemblyReference.cache
+C:\Users\Kim\Documents\GitHub\Uppgift-1\Tri\UnitTestTri\obj\Debug\UnitTestTri.dll
+C:\Users\Kim\Documents\GitHub\Uppgift-1\Tri\UnitTestTri\obj\Debug\UnitTestTri.pdb
